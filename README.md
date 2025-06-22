@@ -2,6 +2,18 @@
 
 Yapay zeka destekli GIF oluşturma uygulaması. Google Gemini API kullanarak prompt'tan animasyonlu GIF'ler oluşturur.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7620ddf-ef23-4606-965e-f9fd27da4c1b" width="750" alt="Görsel 1" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bf5cf9db-fa64-417d-8a4e-ec89ae43d5af" width="750" alt="Görsel 2" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cd5cb79-63fc-4131-95bd-34be5eb05726" width="750" alt="Görsel 3" />
+</p>
+
 ## Özellikler
 
 - 🎨 **AI ile GIF Oluşturma**: Gemini API ile prompt'tan animasyonlu doodle GIF'ler
